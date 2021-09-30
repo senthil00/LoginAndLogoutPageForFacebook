@@ -1,0 +1,5 @@
+HI i am going to demonstrate facebook login examble.
+First it will launch the firefox browser using webdriver api then it will maximise the page.It will wait for 
+2000 seconds to get element populate.And it will pass username and password as testdata using ID locatore and 
+click on login.And then it will wait for 2000 seconds to get logout menu populate.Once its appeared it will click logout menu 
+and then come out.
